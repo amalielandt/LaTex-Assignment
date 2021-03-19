@@ -1,0 +1,47 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Task 1}{2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Sources}{3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Task 2}{3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Danish Letters}{4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Graphics}{4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}References}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1}Paragraphs}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Paragraph}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{Subparagraph}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Lists}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.4.1}Bullet points}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.4.2}Alternativ Bullet}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.4.3}Enumerated list}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Tables}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.5.1}Table with horizontal alignments in columns}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.5.2}Table with a cell spanning multiple columns}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.5.3}Reference}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6}Code listing - emphasized key words}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7}Math equations}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.7.1}Inline equations (in text) and equations on separate line}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.7.2}Fractions, summations, products, roots, powers}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8}Todo notes}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.9}Bibliography of book, article and internet link}{8}%
