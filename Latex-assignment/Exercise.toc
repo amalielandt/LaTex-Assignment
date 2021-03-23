@@ -34,13 +34,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.5.3}Reference}{6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6}Code listing - emphasized key words}{6}%
+\contentsline {subsection}{\numberline {2.6}Code listing - emphasized key words}{7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7}Math equations}{6}%
+\contentsline {subsection}{\numberline {2.7}Math equations}{7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.7.1}Inline equations (in text) and equations on separate line}{6}%
+\contentsline {subsubsection}{\numberline {2.7.1}Inline equations (in text) and equations on separate line}{7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.7.2}Fractions, summations, products, roots, powers}{6}%
+\contentsline {subsubsection}{\numberline {2.7.2}Fractions, summations, products, roots, powers}{7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.8}Todo notes}{7}%
 \defcounter {refsection}{0}\relax 
