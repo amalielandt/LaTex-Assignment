@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.9)  19 MAR 2021 20:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.9)  23 MAR 2021 08:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -661,29 +661,22 @@ File: mountain.jpg Graphic file (type jpg)
 <use mountain.jpg>
 Package pdftex.def Info: mountain.jpg  used on input line 100.
 (pdftex.def)             Requested size: 155.24895pt x 103.62859pt.
- [4 </Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/waterfall.jpg> </Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/lake.jpg> </Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/forest.jpg> </Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/mountain.jpg>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[5] [6]
+ [4 </Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/waterfall.jpg> </Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/lake.jpg> </Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/forest.jpg> </Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/mountain.jpg>] [5] [6]
 
 LaTeX Warning: Marginpar on page 7 moved.
 
 [7]
 
-LaTeX Warning: Citation 'Clear' on page 8 undefined on input line 214.
+LaTeX Warning: Citation 'Clear' on page 8 undefined on input line 216.
 
 
-LaTeX Warning: Citation 'latexcompanion' on page 8 undefined on input line 215.
+LaTeX Warning: Citation 'latexcompanion' on page 8 undefined on input line 217.
 
 
-LaTeX Warning: Citation 'knuthwebsite' on page 8 undefined on input line 216.
+LaTeX Warning: Citation 'knuthwebsite' on page 8 undefined on input line 218.
 
 
-LaTeX Warning: Empty bibliography on input line 218.
+LaTeX Warning: Empty bibliography on input line 220.
 
 [8] (/Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/Exercise.aux)
 
@@ -701,13 +694,13 @@ Package logreq Info: Writing requests to 'Exercise.run.xml'.
 Here is how much of TeX's memory you used:
  21415 strings out of 480608
  425052 string characters out of 5903631
- 1015320 words of memory out of 5000000
+ 1014320 words of memory out of 5000000
  36962 multiletter control sequences out of 15000+600000
  541181 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,10n,83p,1225b,1118s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "/Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/Exercise.pdf" (8 pages, 2469845 bytes).
+Output written on "/Users/sofieamalielandt/Documents/Softwareudvikler/1. Semester/UFO/Latex/Latex-assignment/Exercise.pdf" (8 pages, 2469972 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream
